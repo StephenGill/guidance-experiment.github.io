@@ -1,3 +1,2 @@
 # guidance-experiment.github.io
-Experimental structure for guidance
-Public url: https://stephengill.github.io/guidance-experiment.github.io/index.html
+An experiment with structure. Public url: [https://stephengill.github.io/guidance-experiment.github.io/index.html](https://stephengill.github.io/guidance-experiment.github.io/)
