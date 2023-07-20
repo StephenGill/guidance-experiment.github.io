@@ -8,6 +8,6 @@
 
 [Making decisons about technology](#)
 
-[Get accerss to government data](#)
+[Get access to government data](#)
 
 [Digital, Data and Technology capability framework](#)
