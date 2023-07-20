@@ -1,3 +1,5 @@
 # Government Functional Standard for digital
 
-## Tasks covered
+## Planning for service digitisation and delivery
+
+### Tasks covered
