@@ -4,7 +4,7 @@
 
 [Running a digital and technology function in government](https://stephengill.github.io/guidance-experiment.github.io/functional-standard.html)
 
-[Delivering government services](https://stephengill.github.io/guidance-experiment.github.io/service-manual.html)
+[Delivering a government service](https://stephengill.github.io/guidance-experiment.github.io/service-manual.html)
 
 [Making decisons about technology](#)
 
